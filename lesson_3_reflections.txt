@@ -15,3 +15,7 @@ forks occur on GitHub when you want to make a copy of a repository, while giving
 clones are to make a copy of a repository from GitHub to local or from local to local. 
 
 branches are used to create another path on the project. This is typically done for smaller changes like different versions of the software, new features, a testing version, or to create a production version.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally is to be able to roll back if needed. For example, if a collaborator somehow deleted the whole repository on GitHub, you would still have a copy.
