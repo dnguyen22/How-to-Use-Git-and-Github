@@ -1,0 +1,5 @@
+Starting lesson 3:
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+You may want to use a remote repository if you are working from a different computer.
